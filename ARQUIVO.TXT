@@ -1,0 +1,16 @@
+algoritmo "Maiorconsumo"
+
+  var 
+  N,  metrocubico= inteiro
+  M = real vetor de [1..n]
+
+ inicio
+           escreva ( "Insira as marcações em litros:")
+           leia (N)
+     N ->M
+se N > M então
+     M ->N
+FimSe
+              metrocubico <- M/1000
+            escreva ("O maior valor em metros cúbicos é:" metrocubico) 
+ fimalgoritmo
