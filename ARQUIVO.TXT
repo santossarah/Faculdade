@@ -1,4 +1,4 @@
-algoritmo "Maiorconsumo"
+algoritmo "Maiorconsumo" boas novas!!!!!
 
   var 
   N,  metrocubico= inteiro
